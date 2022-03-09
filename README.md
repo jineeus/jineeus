@@ -5,9 +5,9 @@
 </div>
 
 <div align='center'>
-<a href="https://hyojin96.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fb00ff?style=flat&logo=Storyblok&logoColor=ffffff" /></a>
-<a href="mailto:gywls3394@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=ffffff" /></a>
-<a href="https://www.linkedin.com/in/hyojin-lee-a4a4651b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff" /></a>
+<a href="https://hyojin96.tistory.com/"><img src="https://img.shields.io/badge/Blog-fb00ff?style=flat&logo=Storyblok&logoColor=ffffff" /></a>
+<a href="mailto:gywls3394@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=ffffff" /></a>
+<a href="https://www.linkedin.com/in/hyojin-lee-a4a4651b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff" /></a>
 </div><br/>
 
 <h3>🔑&nbsp;&nbsp;Skills</h3>
