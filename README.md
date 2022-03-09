@@ -1,9 +1,14 @@
+<div align='center'>
+  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=f6ff00&height=200&section=header&text=Lee%20Hyojin&fontColor=66bfe4&fontSize=60&desc=Frontend%20Developer&olor=e4e4e4&descAlignY=70)
 
+</div>
 
+<div align='center'>
 <a href="https://hyojin96.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fb00ff?style=flat&logo=Storyblok&logoColor=ffffff" /></a>
 <a href="mailto:gywls3394@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=ffffff" /></a>
-<a href="https://www.linkedin.com/in/hyojin-lee-a4a4651b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff" /></a><br/><br/><br/>
+<a href="https://www.linkedin.com/in/hyojin-lee-a4a4651b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=ffffff" /></a>
+</div><br/>
 
 <h3>🔑&nbsp;&nbsp;Skills</h3>
 
@@ -30,7 +35,12 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   
 </div><br/><br/>
-
-
+ 
+<div align='center'>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyojinDev&&show_icons=true&theme=highcontrast&include_all_commits=true&show_owner=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyojinDev)](https://solved.ac/hyojinDev)
+
+</div>
+<br/><br/>
+
+<h3 align='center'>✋🏻 Bye Bye 🤚🏻</h3>
